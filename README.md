@@ -29,3 +29,11 @@ Report - https://www.kaggle.com/nicapotato/in-depth-simple-linear-regression
 ### COVID
 
 https://www.kaggle.com/saga21/covid-global-forecast-sir-model-ml-regressions
+
+### STOCK PRICE PREDICTION
+
+https://www.analyticsvidhya.com/blog/2020/10/bajaj-finance-stock-price-prediction-time-series/
+
+### ARIMA MODEL
+
+https://www.analyticsvidhya.com/blog/2020/10/how-to-create-an-arima-model-for-time-series-forecasting-in-python/
