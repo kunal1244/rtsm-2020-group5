@@ -38,3 +38,6 @@ https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-lear
 ### ARIMA MODEL
 
 https://www.analyticsvidhya.com/blog/2020/10/how-to-create-an-arima-model-for-time-series-forecasting-in-python/
+
+### Trend, Seasonal, Noise Breakdown
+Blog: https://towardsdatascience.com/trend-seasonality-moving-average-auto-regressive-model-my-journey-to-time-series-data-with-edc4c0c8284b
