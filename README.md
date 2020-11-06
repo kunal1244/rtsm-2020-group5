@@ -41,3 +41,6 @@ https://www.analyticsvidhya.com/blog/2020/10/how-to-create-an-arima-model-for-ti
 
 ### Trend, Seasonal, Noise Breakdown
 Blog: https://towardsdatascience.com/trend-seasonality-moving-average-auto-regressive-model-my-journey-to-time-series-data-with-edc4c0c8284b
+
+### Content for report for ARIMA 
+https://towardsdatascience.com/time-series-forecasting-arima-models-7f221e9eee06
