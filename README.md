@@ -52,3 +52,6 @@ https://www.kaggle.com/pierpaolo28/stock-market-analysis-and-time-series-predict
 ### Forecasting Electricity production in USA using Time Series
 
 https://www.kaggle.com/vigneshsubramanians/time-series-analysis
+
+### Practical Time Series Tutorial
+http://zoonek2.free.fr/UNIX/48_R/15.html
