@@ -23,9 +23,9 @@ https://towardsdatascience.com/time-series-forecasting-arima-models-7f221e9eee06
 ### Awesome TimeSeries Datasets/Kaggle Notebooks/Papers
 
 https://github.com/cuge1995/awesome-time-series
+https://github.com/antoinecarme/TimeSeriesData
 
 ### Stock Price Data
 
 https://github.com/youngdou/awesome-time-series-analysis
-
 
