@@ -25,3 +25,7 @@ Report - https://www.kaggle.com/timniven/linear-regression-tutorial
 ### E-commerce Women Clothing
 
 Report - https://www.kaggle.com/nicapotato/in-depth-simple-linear-regression
+
+### COVID
+
+https://www.kaggle.com/saga21/covid-global-forecast-sir-model-ml-regressions
