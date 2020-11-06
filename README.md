@@ -33,6 +33,7 @@ https://www.kaggle.com/saga21/covid-global-forecast-sir-model-ml-regressions
 ### STOCK PRICE PREDICTION
 
 https://www.analyticsvidhya.com/blog/2020/10/bajaj-finance-stock-price-prediction-time-series/
+https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/
 
 ### ARIMA MODEL
 
