@@ -21,3 +21,7 @@ Reports/Datasets - https://drive.google.com/drive/folders/1p3kWysvCQGP3tb_YFb1Id
 ### Exam Score (vs. Number of hours studied)
 
 Report - https://www.kaggle.com/timniven/linear-regression-tutorial
+
+### E-commerce Women Clothing
+
+Report - https://www.kaggle.com/nicapotato/in-depth-simple-linear-regression
