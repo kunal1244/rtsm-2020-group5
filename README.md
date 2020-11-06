@@ -5,6 +5,10 @@ Course Project for Regression and Time Series Models
 
 Reports/Datasets - https://drive.google.com/drive/folders/1p3kWysvCQGP3tb_YFb1Id8ItQJk8GS8c
 
+### Electricity Consumption (RK Hall DA)
+
+Report - https://drive.google.com/drive/folders/1xigbsHlP8izsB-WBooYlu2xjK14f9jwG?usp=sharing
+
 ### STOCK PRICE PREDICTION
 
 https://www.analyticsvidhya.com/blog/2020/10/bajaj-finance-stock-price-prediction-time-series/
