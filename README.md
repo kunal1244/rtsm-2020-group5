@@ -14,7 +14,7 @@ Report/Dataset - https://www.kaggle.com/mayanksrivastava/predict-housing-prices-
 
 Report/Dataset - https://www.kaggle.com/sudhirnl7/linear-regression-tutorial
 
-### Electricity Consumption
+### Electricity Consumption (MS Hall GC DA)
 
 Reports/Datasets - https://drive.google.com/drive/folders/1p3kWysvCQGP3tb_YFb1Id8ItQJk8GS8c
 
