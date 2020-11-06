@@ -8,6 +8,16 @@ Report - https://github.com/Shubhammawa/MA31020-RTSM/blob/master/RTSM%20Report.p
 
 ### Housing Prices -
 
-Report - https://www.kaggle.com/mayanksrivastava/predict-housing-prices-simple-linear-regression
+Report/Dataset - https://www.kaggle.com/mayanksrivastava/predict-housing-prices-simple-linear-regression
 
-### 
+### Medical Cost of Individuals
+
+Report/Dataset - https://www.kaggle.com/sudhirnl7/linear-regression-tutorial
+
+### Electricity Consumption
+
+Reports/Datasets - https://drive.google.com/drive/folders/1p3kWysvCQGP3tb_YFb1Id8ItQJk8GS8c
+
+### Exam Score (vs. Number of hours studied)
+
+Report - https://www.kaggle.com/timniven/linear-regression-tutorial
