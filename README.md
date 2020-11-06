@@ -29,3 +29,22 @@ https://github.com/antoinecarme/TimeSeriesData
 
 https://github.com/youngdou/awesome-time-series-analysis
 
+### Candy production by month
+
+https://www.kaggle.com/grosvenpaul/eda-and-time-series-modeling
+
+### Stock market Time Series Analysis
+
+https://www.kaggle.com/wangqiyuan/stock-market-time-series-data-analysis
+
+### EDA Geo Data and Time Series
+
+https://www.kaggle.com/loveall/simple-eda-geo-data-time-series
+
+### Stock Market Analysis and Time Series Prediction
+
+https://www.kaggle.com/pierpaolo28/stock-market-analysis-and-time-series-prediction
+
+### Forecasting Electricity production in USA using Time Series
+
+https://www.kaggle.com/vigneshsubramanians/time-series-analysis
