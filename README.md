@@ -48,6 +48,7 @@ https://www.kaggle.com/loveall/simple-eda-geo-data-time-series
 ### Stock Market Analysis and Time Series Prediction
 
 https://www.kaggle.com/pierpaolo28/stock-market-analysis-and-time-series-prediction
+https://www.kaggle.com/atulanandjha/national-stock-exchange-time-series
 
 ### Forecasting Electricity production in USA using Time Series
 
@@ -63,3 +64,23 @@ https://www.kaggle.com/myonin/bitcoin-price-prediction-by-arima
 ### Pharma Notebook
 
 https://www.kaggle.com/milanzdravkovic/pharma-sales-data-analysis-and-forecasting
+
+### creditcardfraud
+
+https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+### property-sales
+
+https://www.kaggle.com/htagholdings/property-sales/notebooks
+
+### electric-production
+
+https://www.kaggle.com/kandij/electric-production/notebooks
+
+### others
+
+https://www.kaggle.com/census/population-time-series-data/notebooks
+https://www.kaggle.com/shenba/time-series-datasets/notebooks
+https://www.kaggle.com/ravichaubey1506/covid19-india/notebooks
+
+
