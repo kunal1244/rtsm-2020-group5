@@ -55,3 +55,6 @@ https://www.kaggle.com/vigneshsubramanians/time-series-analysis
 
 ### Practical Time Series Tutorial
 http://zoonek2.free.fr/UNIX/48_R/15.html
+
+### Bitcoin prediction
+https://towardsdatascience.com/bitcoin-price-prediction-using-time-series-forecasting-9f468f7174d3
