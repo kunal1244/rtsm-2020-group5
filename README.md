@@ -1,6 +1,19 @@
 # rtsm-2020-group5
 Course Project for Regression and Time Series Models
 
+### EDA for Bitcoin
+
+https://www.kaggle.com/someadityamandal/bitcoin-time-series-forecasting
+
+### Bitcoin prediction (selected)
+https://towardsdatascience.com/bitcoin-price-prediction-using-time-series-forecasting-9f468f7174d3
+https://www.kaggle.com/myonin/bitcoin-price-prediction-by-arima
+
+
+
+
+
+
 ### Electricity Consumption (MS Hall GC DA) 
 
 Reports/Datasets - https://drive.google.com/drive/folders/1p3kWysvCQGP3tb_YFb1Id8ItQJk8GS8c
@@ -56,10 +69,6 @@ https://www.kaggle.com/vigneshsubramanians/time-series-analysis
 
 ### Practical Time Series Tutorial
 http://zoonek2.free.fr/UNIX/48_R/15.html
-
-### Bitcoin prediction (selected)
-https://towardsdatascience.com/bitcoin-price-prediction-using-time-series-forecasting-9f468f7174d3
-https://www.kaggle.com/myonin/bitcoin-price-prediction-by-arima
 
 ### Pharma Notebook
 
