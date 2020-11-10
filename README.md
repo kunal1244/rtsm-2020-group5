@@ -95,4 +95,5 @@ https://www.kaggle.com/ravichaubey1506/covid19-india/notebooks
 ### Theoretical explanation for stationarity(for report)
 https://towardsdatascience.com/stationarity-in-time-series-analysis-90c94f27322
 
-
+### Linear Regression on Time Series
+https://towardsdatascience.com/how-to-model-time-series-data-with-linear-regression-cd94d1d901c0
