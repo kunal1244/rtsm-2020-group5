@@ -97,3 +97,6 @@ https://towardsdatascience.com/stationarity-in-time-series-analysis-90c94f27322
 
 ### Linear Regression on Time Series
 https://towardsdatascience.com/how-to-model-time-series-data-with-linear-regression-cd94d1d901c0
+
+### Single variable
+https://towardsdatascience.com/how-to-analyse-a-single-time-series-variable-11dcca7bf16c
