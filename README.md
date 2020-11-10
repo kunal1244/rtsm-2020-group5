@@ -92,4 +92,7 @@ https://www.kaggle.com/census/population-time-series-data/notebooks
 https://www.kaggle.com/shenba/time-series-datasets/notebooks
 https://www.kaggle.com/ravichaubey1506/covid19-india/notebooks
 
+### Theoretical explanation for stationarity(for report)
+https://towardsdatascience.com/stationarity-in-time-series-analysis-90c94f27322
+
 
